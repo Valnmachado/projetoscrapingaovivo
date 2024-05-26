@@ -1,13 +1,15 @@
 # projetoscrapingaovivo
 
-'''bash
-crapy crawl mercadolivre -o ../../data/data.jsonlH
-'''
+Para rodar o web screping
+### bash
+crapy crawl mercadolivre -o ../../data/data.jsonl
+----------------
+
 
 Para rodar o PANDAS tem que fazer isso dentro da pasta SRC
-'''bash
+### bash
 python transformacao/main.py
-'''
+---------------
 
 
 
